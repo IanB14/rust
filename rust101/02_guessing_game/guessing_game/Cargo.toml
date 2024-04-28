@@ -1,0 +1,11 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+# Use `cargo build` after updating dependencies to automatically grab the
+# necessary crates and include them in the project.
+[dependencies]
+rand = "0.8.5"
